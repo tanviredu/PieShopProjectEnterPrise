@@ -15,7 +15,7 @@ namespace PieShop.Models.Expenses
         public string Description { get; set;}
 
         [Required]
-        public double Ammount { get; set; }
+        public double Amount { get; set; }
         public double Coveredammount { get; set; }
 
         [Required]

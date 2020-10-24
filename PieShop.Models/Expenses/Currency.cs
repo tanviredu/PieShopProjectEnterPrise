@@ -9,7 +9,7 @@ namespace PieShop.Models
         public int CurrencyId { get; set; }
         public string Name { get; set; }
         public string Country { get; set; }
-        public double USExcange { get; set; }
+        public double USExchange { get; set; }
 
     }
 }

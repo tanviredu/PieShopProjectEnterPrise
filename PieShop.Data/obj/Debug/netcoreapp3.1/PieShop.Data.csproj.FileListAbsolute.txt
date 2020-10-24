@@ -1,0 +1,15 @@
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.deps.json
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.runtimeconfig.json
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.runtimeconfig.dev.json
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.dll
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Data.pdb
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Models.dll
+D:\PieShopProjectEnterPrise\PieShop.Data\bin\Debug\netcoreapp3.1\PieShop.Models.pdb
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.csprojAssemblyReference.cache
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.AssemblyInfoInputs.cache
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.AssemblyInfo.cs
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.csproj.CoreCompileInputs.cache
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.csproj.CopyComplete
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.dll
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.pdb
+D:\PieShopProjectEnterPrise\PieShop.Data\obj\Debug\netcoreapp3.1\PieShop.Data.genruntimeconfig.cache
