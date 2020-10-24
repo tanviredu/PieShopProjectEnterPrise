@@ -13,6 +13,8 @@ namespace PieShop.Data.Implementation
         // the constructor is for  when the class
         // will init it will already get a dbContext
         // connection
+        // weinjected the database service in this concrete
+        // implementation
         public CountryRepository(AppDbContext appDbContext)
         {
             _appDbContext = appDbContext;
