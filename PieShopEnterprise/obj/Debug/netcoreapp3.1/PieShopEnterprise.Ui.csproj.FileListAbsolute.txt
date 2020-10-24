@@ -1,0 +1,13 @@
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\PieShopEnterprise.Ui.AssemblyInfoInputs.cache
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\PieShopEnterprise.Ui.AssemblyInfo.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\PieShopEnterprise.Ui.csproj.CoreCompileInputs.cache
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\PieShopEnterprise.Ui.MvcApplicationPartsAssemblyInfo.cache
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\PieShopEnterprise.Ui.RazorComponent.input.cache
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\App.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Index.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShopEnterprise\obj\Debug\netcoreapp3.1\RazorDeclaration\_Imports.razor.g.cs
