@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
+using PieShop.Data.Implementation;
+using PieShop.Data.RepositoryInterface;
 using PieShop.UI.Data;
 
 namespace PieShop.UI
@@ -27,7 +29,10 @@ namespace PieShop.UI
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
+            //services.AddSingleton<WeatherForecastService>();
+            //services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            //services.AddScoped<ICountryRepository, CountryRepository>();
+            //services.AddScoped<IJobCategoryRepository, JobCategoryRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

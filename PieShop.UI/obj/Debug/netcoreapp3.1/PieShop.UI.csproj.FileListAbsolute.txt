@@ -97,3 +97,9 @@ D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeDetails\EmployeeDetails.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Shared\LeftNav.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Shared\LeftNav.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeEdit\EmployeeEdit.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeEdit\EmployeeEdit.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\EmployeeAdd\EmployeeAdd.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeAdd\EmployeeAdd.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TaskList\TaskList.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\TaskList\TaskList.razor.g.cs
