@@ -58,21 +58,7 @@
                         </li>
                     </ul>
                 </li>
-                <li>
-                    <a @onclick="(() => ToggleNav1(4))" data-toggle="collapse" class="dropdown-toggle">Expenses</a>
-                    <ul class="list-unstyled sub-menu @( this.IsHidden4 ? "toggle-hide": "toggle-show")" id="training">
-                        <li>
-                            <NavLink href="/expenses">
-                                Expenses
-                            </NavLink>
-                        </li>
-                        <li>
-                            <NavLink href="/expenseedit">
-                                New Expense
-                            </NavLink>
-                        </li>
-                    </ul>
-                </li>
+                
                 <li>
                     <a @onclick="(() => ToggleNav1(5))" data-toggle="collapse" class="dropdown-toggle">Feedback</a>
                     <ul class="list-unstyled sub-menu @( this.IsHidden5 ? "toggle-hide": "toggle-show")" id="feedback">

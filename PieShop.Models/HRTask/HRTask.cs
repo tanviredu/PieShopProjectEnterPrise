@@ -14,7 +14,7 @@ namespace PieShop.Models.HRTask
         [Required]
         public string Description { get; set; }
 
-        public int AssignedTo { get; set; }
+        public int AssignedTo { get; set; } // this interget will hold the EmployeeId
 
         public HRTaskStatus Status { get; set; }
     }

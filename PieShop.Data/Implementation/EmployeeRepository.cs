@@ -10,9 +10,9 @@ namespace PieShop.Data.Implementation
 {
     public class EmployeeRepository : IEmployeeRepository
     {
-
-
         public readonly AppDbContext _appDbContext;
+
+
 
         public EmployeeRepository(AppDbContext appDbContext)
         {

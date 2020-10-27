@@ -38,7 +38,7 @@ namespace PieShop.Data.Implementation
             return _appDbContext.Surveys.Select(s => s).ToList();
         }
 
-        public Survey GetServeyId(int id)
+        public Survey GetServeyById(int id)
         {
             /* EGAR LOADING THE SEARCH IT WILL TAKE ALL THE
              * ANSWERS RELATED TO THE SURVEY 

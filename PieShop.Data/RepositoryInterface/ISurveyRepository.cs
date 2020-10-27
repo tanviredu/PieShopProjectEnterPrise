@@ -10,6 +10,6 @@ namespace PieShop.Data.RepositoryInterface
         void AddAnswer(Answer answer);
         Survey AddSurvey(Survey survey);
         IEnumerable<Survey> GetAllSurveys();
-        Survey GetServeyId(int id);
+        Survey GetServeyById(int id);
     }
 }

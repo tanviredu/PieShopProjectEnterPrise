@@ -103,3 +103,15 @@ D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\EmployeeAdd\EmployeeAdd.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TaskList\TaskList.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\TaskList\TaskList.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\StaffDirectory\StaffDirectory.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SurveyDetails\SurveyDetails.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SurveyEdit\SurveyEdit.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\SurveyOverview\SurveyOverview.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\TaskAdd\TaskAdd.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\StaffDirectory\StaffDirectory.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\SurveyDetails\SurveyDetails.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\SurveyEdit\SurveyEdit.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\SurveyOverview\SurveyOverview.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\TaskAdd\TaskAdd.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Jobs\JobOverview.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Jobs\JobOverview.razor.g.cs

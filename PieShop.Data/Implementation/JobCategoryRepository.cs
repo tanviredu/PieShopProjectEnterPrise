@@ -11,6 +11,10 @@ namespace PieShop.Data.Implementation
     {
         public readonly AppDbContext _appDbContext;
 
+        public JobCategoryRepository()
+        {
+        }
+
         public JobCategoryRepository(AppDbContext appDbContext)
         {
             _appDbContext = appDbContext;
