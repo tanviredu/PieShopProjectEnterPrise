@@ -23,7 +23,7 @@ namespace PieShop.Data
         // database
         protected override void OnConfiguring(DbContextOptionsBuilder options)
         {
-            options.UseSqlite("Data Source=database.db");
+            options.UseSqlite("Data Source=D:\\PieShopProjectEnterPrise\\PieShop.Data\\database.db");
         }
 
         // SEEDING INITIAL DATA

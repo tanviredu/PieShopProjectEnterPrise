@@ -53,8 +53,11 @@ namespace PieShop.UI.Components
         }
 
         protected void HandleValidSubmit() {
+            var _db = new AppDbContext();
+            employeeRepository = new EmployeeRepository(_db);
             employeeRepository.AddEmployee(Employee);
             ShowDialog = false;
+            StateHasChanged();
             
         }
 

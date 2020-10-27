@@ -315,7 +315,7 @@ namespace PieShop.Data.Migrations
                             Amount = 900.0,
                             Coveredammount = 0.0,
                             CurrencyId = 1,
-                            Date = new DateTime(2020, 10, 25, 0, 2, 38, 646, DateTimeKind.Local).AddTicks(1352),
+                            Date = new DateTime(2020, 10, 27, 4, 54, 48, 213, DateTimeKind.Local).AddTicks(7736),
                             Description = "I went to a conference",
                             EmployeeId = 1,
                             ExpenseType = 2,

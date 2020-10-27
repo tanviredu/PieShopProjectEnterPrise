@@ -4,4 +4,9 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\PieShop.Data\PieShop.Data.csproj" />
+    <ProjectReference Include="..\PieShop.Models\PieShop.Models.csproj" />
+  </ItemGroup>
+
 </Project>

@@ -19,10 +19,6 @@ using System.Linq;
  */
 
 
-
-
-
-
 namespace PieShop.Data.Implementation
 {
     public class ExpenseRepository : IExpanseRepository
