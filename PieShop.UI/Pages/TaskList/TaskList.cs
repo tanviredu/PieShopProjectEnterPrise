@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace PieShop.UI.Pages.TaskList
 {
-    public partial class TaskList
+    public partial class TaskList :ComponentBase
     {
         [Parameter]
         public int Count { get; set; }

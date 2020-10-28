@@ -115,3 +115,5 @@ D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Surve
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\TaskAdd\TaskAdd.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Jobs\JobOverview.razor.g.cs
 D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Jobs\JobOverview.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\RazorDeclaration\Pages\Jobs\AddJob.razor.g.cs
+D:\PieShopProjectEnterPrise\PieShop.UI\obj\Debug\netcoreapp3.1\Razor\Pages\Jobs\AddJob.razor.g.cs

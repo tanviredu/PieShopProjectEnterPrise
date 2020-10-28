@@ -18,7 +18,11 @@ namespace PieShop.UI.Components
 
         protected override void OnInitialized()
         {
-            NewEmployees = employeeRepository.GetAllEmployees().OrderBy(x => x.JoinedDate).Take(3).ToList();
+            using (var _db = new AppDbContext()) {
+                var er = new EmployeeRepository(_db);
+                NewEmployees = er.GetAllEmployees().OrderBy(x => x.JoinedDate).Take(3).ToList();
+            }
+                
 
         }
     }

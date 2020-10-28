@@ -1,5 +1,29 @@
-﻿<h3>JobOverview</h3>
+﻿@page "/jobs"
 
-@code {
-
-}
+<div class="entity-edit">
+    <h1 class="page-title">All Jobs</h1>
+    <br />
+    @if (Jobs != null)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Description</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var job in Jobs)
+                {
+                    <tr>
+                        <td>@job.Title</td>
+                        <td>@job.Description</td>
+                        <td>@job.Salary</td>
+                       
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>

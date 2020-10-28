@@ -5,6 +5,7 @@ using PieShop.Models;
 using Microsoft.EntityFrameworkCore;
 using PieShop.Models.Expenses;
 using PieShop.Models.HRTask;
+using PieShop.Models.Job;
 
 namespace PieShop.Data
 {
@@ -18,6 +19,7 @@ namespace PieShop.Data
         public DbSet<Currency> Currencies { get; set; }
         public DbSet<Survey> Surveys { get; set; }
         public DbSet<Answer> Answers { get; set; }
+        public DbSet<Job> Jobs { get; set; }
 
         // this is for configuring the 
         // database
